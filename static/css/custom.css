@@ -1,0 +1,25 @@
+img {
+	width: 100%;
+}
+
+.container {
+	max-width: 80%;
+}
+
+.headshot {
+    width: 200px;
+    height: 200px;
+}
+
+#social-pane > a {
+	margin-right: 15px;
+    font-size: 24px;
+}
+
+.intro {
+	margin-bottom: 30px;
+}
+
+#main-menu-pane {
+	margin-top: 20px;
+}

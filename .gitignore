@@ -1,0 +1,4 @@
+themes/hugo-goa/exampleSite/public
+.DS_Store
+*/**/.DS_Store
+*.sw*

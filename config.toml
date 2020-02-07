@@ -1,0 +1,40 @@
+baseURL = "https://connorleech.info/"
+languageCode = "en-us"
+title = "Connor Leech"
+theme = "hugo-goa"
+disqusShortname="connorleech"
+googleAnalytics="UA-70809574-1"
+enableRobotsTXT=true
+[params]
+  author="Connor Leech"
+  intro="my personal site.."
+  description=""
+  authorimage="hrx_profile_square copy.jpeg"
+  dateformat="Jan 2, 2006"
+  categories=true
+[permalinks]
+  posts = "blog/:title"
+
+
+## Site Meta Settings
+[params.meta]
+description = "Connor Leech's personal website"
+keywords = "laravel,javascript,php,career growth,parenting,health"
+
+## Social Accounts
+[params.social]
+github = "connor11528"
+instagram = "connor11528"
+linkedin = "connorleech"
+twitter = "connor11528"
+strava = "connor_leech"
+email = "connorleech@gmail.com"
+
+## Extras
+[params.extra]
+copyright = ""
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = false
+displayrssicon = false
